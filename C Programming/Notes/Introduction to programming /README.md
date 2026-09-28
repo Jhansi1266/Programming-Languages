@@ -1,5 +1,7 @@
 <img width="892" height="427" alt="image" src="https://github.com/user-attachments/assets/193f5470-d42c-4d3d-a744-2972a0cefce1" /><br>
 ## History of programming
+### What is programming
+programming means giving instructions to a computer
 Long ago people used to remember the codes in binary format<br>
 ### 1. Before Programming Languages — Machine Code<br>
 1940s<br>
@@ -30,11 +32,16 @@ Machine Code<br>
 Assembly<br>
 → converted by an Assembler
 ## Why c?
+two important reasons are portability and fewer lines of code.
+### 1. C is portable
 C was developed at Bell Labs in the early 1970s by Dennis Ritchie. UNIX was initially developed in assembly language, but assembly is machine-dependent and difficult to port. C provided better portability while still giving programmers low-level hardware control and good performance. Therefore, UNIX was largely rewritten in C around 1973.
-## what is portable?
+#### what is portable?
 Portability means the ability to use the same program or source code on different computer systems with little or no modification.
-## Why is C called a middle-level language?
+#### Why is C called a middle-level language?
 Because it combines high-level programming features with low-level hardware access.
-## Is C completely portable?
-No. C is relatively portable, but hardware-, OS-, compiler-, or implementation-specific code may require changes.
+#### Is C completely portable?
+C is not completely machine-independent. Some platform-dependent code may need changes.
+### 2.less lines of code
+C allows programmers to perform operations using short and concise syntax, so the same task can often be written with fewer statements compared with Assembly.
+
 
