@@ -1,7 +1,7 @@
 <img width="892" height="427" alt="image" src="https://github.com/user-attachments/assets/193f5470-d42c-4d3d-a744-2972a0cefce1" /><br>
 ## History of programming
 ### What is programming
-programming means giving instructions to a computer
+programming means giving instructions to a computer<br>
 Long ago people used to remember the codes in binary format<br>
 ### 1. Before Programming Languages — Machine Code<br>
 1940s<br>
