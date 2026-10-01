@@ -9,7 +9,7 @@ Variable declaration means telling the compiler that a variable exists and speci
 ## Properties:
     1. Size of the variable
     2. Name of the variable
-<img width="706" height="350" alt="image" src="https://github.com/user-attachments/assets/b4be58ba-1ed7-4eb3-bc4b-5238200bc352" />
+<img width="706" height="350" alt="image" src="https://github.com/user-attachments/assets/b4be58ba-1ed7-4eb3-bc4b-5238200bc352" /><br>
 # Initialization of a Variable in C
 Initialization means giving a variable its first value when the variable is created.
 ## Syntax
